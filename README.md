@@ -26,7 +26,7 @@ npm install
 
 <h3> Step 2: Obtain a Bot Token From <a href = https://discord.com/developers>Here
 
-  <h3> Step 3: Replace the Token in config.json</h3>
+<h3> Step 3: Replace the Token in config.json</h3>
 **We are done with the setup, now we can host it**
 Run with node -
 
