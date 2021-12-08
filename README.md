@@ -23,3 +23,5 @@ Windows -
 # https://nodejs.org/en/blog/release/v16.0.0/ get node.js
 npm install 
 ```
+
+<h3> Step 2: Obtain a Bot Token From [Here](https://discord.com/developers)
