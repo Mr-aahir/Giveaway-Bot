@@ -28,8 +28,15 @@ npm install
 
 <h3> Step 3: Replace the Token in config.json
 **We are done with the setup, now we can host it**
-  <h3> Run with node -</h3>
+Run with node -
 
 ```
 node index.js
+```
+
+Run with pm2 - 
+
+```
+npm install -g pm2@latest
+pm2 start --name "Giveaway" index.js --watch
 ```
