@@ -16,3 +16,10 @@ chmod 777 nodesource_setup.sh
 apt install nodejs -y
 npm install
 ```
+
+Windows - 
+
+```
+# https://nodejs.org/en/blog/release/v16.0.0/ get node.js
+npm install 
+```
