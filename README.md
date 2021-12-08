@@ -7,7 +7,7 @@ A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and 
 <h4><a href = https://glitch.com/edit/#!/import/github/Mr-aahir/Giveaway-Bot->Glitch</a></h4>
 <h3>Step 1: Install the Dependencies</h3>
 Linux 
-```sh
+
 
 
 
