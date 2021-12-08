@@ -3,4 +3,4 @@ A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and 
 # Hosting
 **Requirements** - Node.js v16+ and Discord.js version 13.
 <h3>Choose a hosting platform -</h3>
-Repl.it(https://repl.it/github/Mr-aahir/Giveaway-Bot-)
+<a href = https://repl.it/github/Mr-aahir/Giveaway-Bot->Repl.it</a>
