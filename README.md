@@ -16,5 +16,6 @@ apt install nodejs -y
 
 
 ```
+apt install nodejs -y
 npm install
 ```
