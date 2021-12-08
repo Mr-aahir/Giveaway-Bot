@@ -24,4 +24,4 @@ Windows -
 npm install 
 ```
 
-<h3> Step 2: Obtain a Bot Token From [Here](https://discord.com/developers)
+<h3> Step 2: Obtain a Bot Token From <a href = https://discord.com/developers>Here
