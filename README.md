@@ -26,7 +26,7 @@ npm install
 
 <h3> Step 2: Obtain a Bot Token From <a href = https://discord.com/developers>Here
 
-<h3> Step 3: Create env file and paste there.</h3>
+<h3> Step 3: Create .env file and paste there.</h3>
 <h4>We are done with the setup, now we can host it.</h4>
 Run with node -
 
