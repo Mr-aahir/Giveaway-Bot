@@ -1,10 +1,10 @@
-# Giveaway-Bot-
+# Giveaway-Bot
 A Discord Giveaway bot written in Discord.js to create & enjoy Feature rich and Seamless Giveaways within your very own Discord guild!
 # Hosting
 **Requirements** - Node.js v16+ and Discord.js version 13.
 <h3>Choose a hosting platform -</h3>
-<h4><a href = https://repl.it/github/Mr-aahir/Giveaway-Bot->Repl.it</a></h4>
-<h4><a href = https://glitch.com/edit/#!/import/github/Mr-aahir/Giveaway-Bot->Glitch</a></h4>
+<h4><a href = https://repl.it/github/Mr-aahir/Giveaway-Bot>Repl.it</a></h4>
+<h4><a href = https://glitch.com/edit/#!/import/github/Mr-aahir/Giveaway-Bot>Glitch</a></h4>
 <h3>Step 1: Install the Dependencies</h3>
 Linux -
 
